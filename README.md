@@ -52,13 +52,16 @@ pip install -r requirements.txt
 
 Run the code
 ```console
-jupyter notebook
+jupyter notebook Exception_Draft.ipynb
 ```
-### What is the code doing?
+### What is the Notebook doing?
 Comparing:
- - Records in file1 not in file2 and the inverse
- - Subset of column in file1 not in subset of column in file2 and the inverse
- - Compare is file1 equal to file2
+ - Exploring python
+ - Exploring markdown
+ - Exploring bash commands 
+ - Exploring DataFrames
+ - Comparing DataFrames
+ - Exploring UI/UX
 
 
 To stop the virtual session  
@@ -72,4 +75,4 @@ deactivate
 ## References
  - [Installing Virtual Environment](https://virtualenv.pypa.io/en/stable/installation/)
  - [Python Data Analysis Library](https://pandas.pydata.org/)
- - [Storage of Pandas DataFrames](http://matthewrocklin.com/blog/work/2015/03/16/Fast-Serialization)
+ - [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=HW29067qVWk&t=417s)
