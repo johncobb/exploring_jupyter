@@ -74,5 +74,5 @@ deactivate
 
 ## References
  - [Installing Virtual Environment](https://virtualenv.pypa.io/en/stable/installation/)
- - [Python Data Analysis Library](https://pandas.pydata.org/)
  - [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=HW29067qVWk&t=417s)
+ - [Python Data Analysis Library](https://pandas.pydata.org/)
